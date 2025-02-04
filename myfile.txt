@@ -3,5 +3,5 @@ This is line 2
 This is line 3
 This is line 4
 This is line 5
-6th line for 3rd commit
-7th line for 3rd commit
+Mango feat 6th line
+orange feat 7th line
